@@ -1,4 +1,4 @@
-# flclash-vpn-fix
+# hyperos-flclash-vpn-fix
 
 > **一句话**：HyperOS / MIUI 上 FlClash 建不起 VPN 时，这个 KernelSU 模块替你把它修好 —— 开机自动纠正被 MIUI 改坏的 appop，并持续守着不放。
 
